@@ -19,8 +19,12 @@
 -CONTACT
 ![screen shots](https://github.com/20a31a0579/project21/assets/110026595/e3702893-48c4-45f1-b960-a018fb202c84)
 
-**Tech Stack**
--Azure(hosting)
+**g**
+
 -HTML
+
 -CSS
+
 -JavaScript
+
+-Bootstrap
