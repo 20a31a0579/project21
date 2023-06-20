@@ -1,11 +1,15 @@
 **PETSPATIAL**
 
 **Project link**:https://20a31a0579.github.io/project21/contact.html
+
 **Project demo video link**:
+
 **Azure Technologies used for project**
-.Static web apps
-.Storage account
+-Static web apps
+-Storage account
+
 **SCREENSHOTS**
+
 -HOME
 ![screen shots](https://github.com/20a31a0579/project21/assets/110026595/67dc9c6f-0b30-4179-af6c-69e5c5ced9db)
 -ABOUT
