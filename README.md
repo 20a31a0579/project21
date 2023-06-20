@@ -4,7 +4,7 @@ This is a web based application developed for grooming and pet care
 
 **This web based grooming and pet care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future Skills Prime,Quess,Github and EY**.
 
-**Project link**:https://20a31a0579.github.io/project21/contact.html
+**Project link**:https://20a31a0579.github.io/project21/
 
 **Project demo video link**:https://www.youtube.com/watch?v=gv7dAYkGuzs
 
