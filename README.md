@@ -28,37 +28,43 @@ This is a web based application developed for grooming and pet care
 
 ## SCREENSHOTS
 
-**HOME**
+## HOME
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/67dc9c6f-0b30-4179-af6c-69e5c5ced9db)
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/b392cc6a-e96a-44f2-9b88-4c2a23258b92)
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/31d89159-2978-4f1b-8078-7f143f13bd57)
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/9aac50e7-6bc9-43d0-8020-9492ea0c84c5)
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/48c6268a-6d7e-4f9b-bf9a-9ae2019d0a25)
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/9c01c560-89d4-4c63-a6cc-fad9be69d985)
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/a13f85a1-dbb5-4f73-8bf9-ae4140ee3130)
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/6167a520-51b6-4a68-a39c-880fb39c2d33)
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/21917810-cb0f-4a9b-b842-bb8f2171a794)
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/25f5e691-9d52-4ebf-8b25-88d98746be62)
 
-**ABOUT**
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/dc513798-4718-401d-af0b-52455c55b8a2)
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/7b62642e-db8c-429d-acdc-2af3d0abf2be)
+## ABOUT
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/210decdb-51f5-4d1f-ad4c-003d4193bc6b)
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/542f0ea6-5dad-485c-b558-6f39097e56b8)
 
-**SERVICES**
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/1f563d09-0692-4748-8276-a49df00fe7d4)
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/4fca96c8-63d8-4828-9d92-6718dec39e48)
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/791ba8f0-3f25-451f-aaeb-94c90d345699)
+## SERVICES
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/e0748f54-7c8d-4ab3-8410-2b59f9d44b40)
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/4f00ceff-c21a-457f-ba1a-73b1f032e149)
 
-**CONTACT**
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/c30454f7-1cdc-4269-8bc6-3488f1b1930e)
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/e3702893-48c4-45f1-b960-a018fb202c84)
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/6dc4e018-2d70-4359-bb4b-979b04440204)
 
-![screen shots](https://github.com/20a31a0579/project21/assets/110026595/fa704597-0029-42f5-b175-ed8efb9e40c8)
+## CONTACT
+
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/9f57e71f-37b8-4583-b8e5-8ffd77ce9144)
+
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/f944063b-aba3-4f6e-ae14-fbd6d230f196)
+
+![screenshots](https://github.com/20a31a0579/project21/assets/110026595/942f1142-6cb4-42cf-9253-cf1d262290a0)
+
 
 ## To complete this project tools used
 
