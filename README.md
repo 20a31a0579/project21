@@ -10,21 +10,21 @@ This is a web based application developed for grooming and pet care
 
 ## Azure Technologies used for project
 
--Static web apps
+. Static web apps
 
--Storage account
+. Storage account
 
 ## Features and Functionalities
 
--Pet services directory
+. Pet services directory
 
--Health and wellness resources
+. Health and wellness resources
 
--Mobile compatibility or Mobile friendly design
+. Mobile compatibility or Mobile friendly design
 
--User can know more about pet grooming and caring information through this website 
+. User can know more about pet grooming and caring information through this website 
 
--Provides and notify customers about Appointments,Vaccination schedules,New forum posts,Messages from their followed provided mails
+. Provides and notify customers about Appointments,Vaccination schedules,New forum posts,Messages from their followed provided mails
 
 ## SCREENSHOTS
 
@@ -68,12 +68,12 @@ This is a web based application developed for grooming and pet care
 
 ## To complete this project tools used
 
--Azure(hosting)
+. Azure(hosting)
 
--HTML
+. HTML
 
--CSS
+. CSS
 
--JavaScript
+. JavaScript
 
--Bootstrap
+. Bootstrap
