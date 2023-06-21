@@ -1,9 +1,9 @@
 **🐶PETSPATIAL🐶**
 
 
-This is a web based application developed for grooming and pet care
+This is a web based application developed for grooming and pet care😻
 
-**This web based grooming and pet care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future Skills Prime,Quess,Github and EY**.
+**This web based on grooming and pet care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future Skills Prime,Quess,Github and EY**.
 
 **Project link**:https://red-pebble-0ed7c7c00.3.azurestaticapps.net
 
