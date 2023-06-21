@@ -6,7 +6,7 @@ This is a web based application developed for grooming and pet care
 
 **Project link**:https://red-pebble-0ed7c7c00.3.azurestaticapps.net
 
-**Project demo video link**:https://www.youtube.com/watch?v=gv7dAYkGuzs
+**Project demo video link**:https://www.youtube.com/watch?v=gv7dAYkGuzs&t=2s
 
 ## Azure Technologies used for project
 
