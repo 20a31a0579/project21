@@ -14,7 +14,7 @@ This is a web based application developed for grooming and pet care
 
 -Storage account
 
-**Features and Functionalities**
+## Features and Functionalities
 
 -Pet services directory
 
