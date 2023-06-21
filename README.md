@@ -1,14 +1,14 @@
-**🐶PETSPATIAL🐶**
+## 🐶PETSPATIAL🐶
 
 This is a web based application developed for grooming and pet care
 
-**This web based on grooming and pet care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future Skills Prime,Quess,Github and EY**.
+### This web based on grooming and pet care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future Skills Prime,Quess,Github and EY.
 
 **Project link**:https://red-pebble-0ed7c7c00.3.azurestaticapps.net
 
 **Project demo video link**:https://www.youtube.com/watch?v=gv7dAYkGuzs
 
-**Azure Technologies used for project**
+## Azure Technologies used for project
 
 -Static web apps
 
@@ -26,7 +26,7 @@ This is a web based application developed for grooming and pet care
 
 -Provides and notify customers about Appointments,Vaccination schedules,New forum posts,Messages from their followed provided mails
 
-**SCREENSHOTS**
+## SCREENSHOTS
 
 **HOME**
 
@@ -60,7 +60,7 @@ This is a web based application developed for grooming and pet care
 
 ![screen shots](https://github.com/20a31a0579/project21/assets/110026595/fa704597-0029-42f5-b175-ed8efb9e40c8)
 
-**To complete this project tools used**
+## To complete this project tools used
 
 -Azure(hosting)
 
